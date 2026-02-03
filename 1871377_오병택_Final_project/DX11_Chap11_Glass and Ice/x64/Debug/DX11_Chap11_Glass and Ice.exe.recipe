@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\USER\Desktop\오병택\학교\0. 수업자료 및 과제\4-2 게임프로그래밍\Final Project\DX11_Chap11_Glass and Ice (13주차 실습완성파일)\x64\Debug\DX11_Chap11_Glass and Ice.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\USER\Desktop\오병택\학교\0. 수업자료 및 과제\4-2 게임프로그래밍\Final Project\DX11_Chap11_Glass and Ice (13주차 실습완성파일)\x64\Debug\glassPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\USER\Desktop\오병택\학교\0. 수업자료 및 과제\4-2 게임프로그래밍\Final Project\DX11_Chap11_Glass and Ice (13주차 실습완성파일)\x64\Debug\texturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\USER\Desktop\오병택\학교\0. 수업자료 및 과제\4-2 게임프로그래밍\Final Project\DX11_Chap11_Glass and Ice (13주차 실습완성파일)\x64\Debug\glassVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\USER\Desktop\오병택\학교\0. 수업자료 및 과제\4-2 게임프로그래밍\Final Project\DX11_Chap11_Glass and Ice (13주차 실습완성파일)\x64\Debug\textureVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
